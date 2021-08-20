@@ -1,0 +1,29 @@
+Enter the browser you want to use 1.Chrome | 2.Firefox | 3.Edge : 3
+Enter your registered 10-digit zomato mobile number: 9876543210
+[WDM] - ====== WebDriver manager ======
+[WDM] - There is no [win64] edgedriver for browser  in cache
+[WDM] - Trying to download new driver from https://msedgedriver.azureedge.net/ip/edgedriver_win64.zip
+[WDM] - Driver has been saved in cache [C:\Users\KK\.wdm\drivers\edgedriver\win64\ip]
+
+Opened zomato homepage
+Clicked on Login button
+Clicked on country code
+Provided +91 country code
+Provided given mobile number
+Clicked on Send OTP
+Please enter the OTP(s) sent to given mobile number(and e-mail if applicable) in the browser
+Clicked on your zomato username
+Clicked on Profile button
+Opened zomato Order History webpage
+Processing the orders in Page-1
+Total no.of orders: 92
+Processing the orders in Page-2
+Processing the orders in Page-3
+Processing the orders in Page-4
+Processing the orders in Page-5
+Processing the orders in Page-6
+Processing the orders in Page-7
+Processing the orders in Page-8
+Processing the orders in Page-9
+Processing the orders in Page-10
+Total money spent in Zomato: Rs.45460.29

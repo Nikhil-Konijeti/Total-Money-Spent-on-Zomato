@@ -1,0 +1,11 @@
+1628528554117	geckodriver	INFO	Listening on 127.0.0.1:51254
+1628528557162	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NKONIJ~1.HEA\\AppData\\Local\\Temp\\rust_mozprofilelXcbj4"
+1628528567260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nkonijeti.HEADQUARTERS\\AppData\\Local\\Temp\\rust_mozprofilelXcbj4\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628528586607	Marionette	INFO	Listening on port 55563
+1628528587327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1628528873512	Marionette	INFO	Stopped listening on port 55563
